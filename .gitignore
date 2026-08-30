@@ -1,0 +1,16 @@
+# Personal / medication data — never commit these
+MedsToOrder.txt
+MedsToOrder_Log.txt
+VA-medications-list-*.txt
+VA_Meds_Archive/
+
+# Python build artifacts
+build/
+dist/
+__pycache__/
+*.spec
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
